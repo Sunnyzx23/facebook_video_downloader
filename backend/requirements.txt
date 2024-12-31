@@ -1,0 +1,11 @@
+lxml==4.9.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+requests-html==0.10.0
+facebook-scraper==0.2.59
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+aiohttp==3.9.1
+pydantic==2.5.2
+python-dotenv==1.0.0
